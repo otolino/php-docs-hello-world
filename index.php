@@ -3,6 +3,8 @@
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
+ <?php echo '<p>Hola Mundo Azure</p>'; ?>
+ <br>
+ <img src="/bitacora/1.png" width="270">
  </body>
 </html>
