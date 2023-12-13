@@ -63,4 +63,4 @@ jobs:
           app-name: 'epi-webapp-php'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A4F49C233764679B1831933B8BD71FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C45909EE620145CA8EE72B1763FD4E9D }}
